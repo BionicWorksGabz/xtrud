@@ -1,0 +1,10 @@
+/* Logo temporária simples em SVG */
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80">
+  <style>
+    .logo-text { fill: #FFFFFF; font-family: Arial, sans-serif; font-weight: bold; }
+    .xtrud { font-size: 36px; }
+    .studio { font-size: 24px; }
+  </style>
+  <text x="10" y="45" class="logo-text xtrud">XTRUD</text>
+  <text x="120" y="55" class="logo-text studio">STUDIO</text>
+</svg>
